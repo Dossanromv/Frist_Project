@@ -6,4 +6,5 @@
 # we added text to the new branch
 
 
-# Создаем конфликт
+
+Создаем конфликт и разрешаем
